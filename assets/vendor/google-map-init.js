@@ -1,0 +1,1 @@
+!function(){"use strict";$(document).ready(function(){google.maps.event.addDomListener(window,"load",function(){var e={zoom:14,scrollwheel:!1,center:new google.maps.LatLng(10.7990563,106.6787713)},o=document.getElementById("map"),n=new google.maps.Map(o,e);new google.maps.Marker({position:new google.maps.LatLng(10.7990563,106.6787713),map:n,title:"Snazzy!"})})})}(jQuery);
